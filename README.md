@@ -1,5 +1,5 @@
 # ICAM (Intestinal Crypt Associated Macrophage)
-Spatial transcriptomics approach reveals intestinal crypt macrophages in the top and the bottom of healthy colon crypts.
+A machine learning approach reveals intestinal crypt macrophages at the top and bottom of healthy colon crypts.
 
 ## Summary
 ![Workflow](./Figures/Figure-1.pdf)
@@ -20,12 +20,9 @@ Spatial transcriptomics approach reveals intestinal crypt macrophages in the top
 ## Citation
 
 ```
-@article{ICAM2023,
-  title={{}},
-  author={},
-  journal={{bioRxiv}},
-  pages={##--##},
-  year={2023},
-  publisher={}
+@article{ICAM2026,
+  title  = {Spatial Transcriptomics to Resolve Macrophage Polarization along the Intestinal Crypt Axis},
+  author = {H M Zabir Haque1, Daniella Vo, Sara Safa, Mojgan Hosseini, and Debashis Sahoo},
+  note   = {Manuscript under review}
 }
 ```
