@@ -1,5 +1,6 @@
-# ICAM (Intestinal Crypt Associated Macrophage)
-A machine learning approach reveals intestinal crypt macrophages at the top and bottom of healthy colon crypts.
+# Spatial Transcriptomics to Resolve Macrophage Polarization along the Intestinal Crypt Axis 
+
+ICAM (Intestinal Crypt Associated Macrophage): A machine learning approach reveals intestinal crypt macrophages at the top and bottom of healthy colon crypts.
 
 ## Summary
 ![Workflow](./Figures/Figure-1.pdf)
