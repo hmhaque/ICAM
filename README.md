@@ -23,7 +23,7 @@ ICAM (Intestinal Crypt Associated Macrophage): A machine learning approach revea
 ```
 @article{ICAM2026,
   title  = {Spatial Transcriptomics to Resolve Macrophage Polarization along the Intestinal Crypt Axis},
-  author = {H M Zabir Haque1, Daniella Vo, Sara Safa, Mojgan Hosseini, and Debashis Sahoo},
+  author = {H M Zabir Haque, Daniella Vo, Sara Safa, Mojgan Hosseini, and Debashis Sahoo},
   note   = {Manuscript under review}
 }
 ```
