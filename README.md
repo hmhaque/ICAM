@@ -2,7 +2,7 @@
 Spatial transcriptomics approach reveals intestinal crypt macrophages in the top and the bottom of healthy colon crypts.
 
 ## Summary
-![Workflow](./figures/plot.png)
+![Workflow](./Figures/Figure-1.pdf)
 
 
 ## Requirements
